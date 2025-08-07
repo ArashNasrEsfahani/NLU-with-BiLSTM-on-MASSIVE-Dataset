@@ -42,8 +42,8 @@ This task involves classifying the entire input sentence into one of 60 predefin
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repository-name>
+    git clone https://github.com/ArashNasrEsfahani/NLU-with-BiLSTM-on-MASSIVE-Dataset
+    cd NLU-with-BiLSTM-on-MASSIVE-Dataset
     ```
 
 2.  **Create a virtual environment and install dependencies:**
